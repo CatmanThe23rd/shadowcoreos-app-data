@@ -1,0 +1,15 @@
+{
+  "version": 1,
+  "categories": [
+    {
+      "id": "system",
+      "name": "System Tools",
+      "description": "Core system utilities and OS tools."
+    },
+    {
+      "id": "games",
+      "name": "Games",
+      "description": "Installed or cloud games."
+    }
+  ]
+}
