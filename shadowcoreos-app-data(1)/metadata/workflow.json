@@ -1,7 +1,0 @@
-{
-  "auto_update": true,
-  "update_sources": [
-    "https://raw.githubusercontent.com/CatmanThe23rd/shadowcoreos-app-data/main/metadata/apps.json",
-    "https://raw.githubusercontent.com/CatmanThe23rd/shadowcoreos-app-data/main/metadata/categories.json"
-  ]
-}
